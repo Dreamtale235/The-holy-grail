@@ -1,0 +1,22 @@
+# 敏感信息
+sessions/
+
+# 数据输出
+data/*.csv
+data/*.html
+data/*.png
+
+# 运行时产物
+logs/
+__pycache__/
+*.pyc
+
+# 构建产物
+build/
+dist/
+
+# 编辑器 & 工具
+.claude/
+上传GitHub/
+.vscode/
+.idea/
